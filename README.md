@@ -1,4 +1,4 @@
-# Excel-challenge
+# excel-challenge
 In this section, we investigate crowdfunding campaigns to discover the key to successful crowdfunding campaigns using Excel. Tools such as pivot tables, summary statistics tables, graphs and a report are included.
 
 Description of files:
