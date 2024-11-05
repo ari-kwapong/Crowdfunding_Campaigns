@@ -1,7 +1,7 @@
 # Excel-challenge
-Evaluated Excel a spreadsheet containing various metrics about crowdfunding campaigns to discover the key to successful crowdfunding campaigns. Tools such as pivot tables, summary statistics tables, graphs and a report are included.
+In this section, we investigate crowdfunding campaigns to discover the key to successful crowdfunding campaigns using Excel. Tools such as pivot tables, summary statistics tables, graphs and a report are included.
 
-Tools:
+Description of files:
 - Dataset containing information on crowdfunding Campaigns
 - Word document including report
 *Kindly click raw files to see both files
